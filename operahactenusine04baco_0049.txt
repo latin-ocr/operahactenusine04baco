@@ -1,0 +1,44 @@
+345
+
+linee ad angulos obliquos caderent ab eis super nos quando
+essent in orizonte. Set quando res eadem longe distat, minor
+videtur3 quando prope, major videtur: ergo stelle apparent
+maj0res in meridie quarn in ortu vel Ι occasu. Set hoc est O. ¹4 b
+5 falsum penitus, immo contrarium accidit, scilicet, quod stelle
+appareant majores in oriente Ι quam in medio celi. Set hoc 100b 1.
+est per accidens aut propter intcrposicionem vaporum aut
+propter causam aliam quam Ptholomeus et Alacen determinant
+in libris Aspectuum, ut declarabitur inferius suo loco. Nec
+ιο enim est per elongacionem majorem stellarum vel minorem,
+set. propter alias duas causas accidentales 3 ideo stabit pro-
+positum quod celum non erit plane figure.
+Item istud alia racione consimili et per aliam causam pro-
+batur. Nam res eadem quando sub minori angulo videtur
+15 minor apparet, ut ex libro de Vz'su et Aspecsz‘bns manifestum
+est, eo quod in superficie oculi species veniens capit partem
+minorem quarn quando sub magno angulo videtur : nam tunc
+ordinatur species in magna quantitate oculi, et ideo sensibilius
+et expressius potest apparere. Set si celum esset plane figure,
+20 tunc dyameter stelle quando est in meridie videretur sub
+angulo majori quam quando est in oriente vel occidente, ergo
+quando est in meridie apparet major, quod falsum est.
+Probacio consequencie. Sit celum linea AB, et EF sit dya-
+meter stelle quando est in meridie, et FG sit ejus dyameter
+25 quando est versus mtum, et GB sit ejus dyameter quando est
+in ortu et Ο sit oculus in superficie terre. Trahatur FH equi-
+distans GO. Ergo cum FH secet latera trianguli GOE equi-
+distanter tercio, oportet quod per secundam sexti Elementorum
+Euclidis quod proporcio EF ad F G sit eadem, que est EH ad
+30 ΗΟ. Ergo, ΕΗ et ΗΟ sunt equales. Set HF est major HE
+per 19am primi Elementorum Euclidis, ergo, HF est major ΗΟ,
+- ergo per eandem 19³²m in triangulo HFO Ι angulus O est major 100 b 2-
+
+8 Ptholomeus] Almagest i. 3. 9 Aspeetuum] Alhazen vii. 51. 15 de
+Visu et, Aspeetibus] Optica Euclidis, prop. 4.
+
+1 obliquos] rectos M 2 orizonte] oriente M 3 videtur bis] apparet Ο
+4 vel] et O 6 appareant] apparent O 21 oriente vel occidente]
+orizonte O 25-26 et . . . ortu om. M 28 secundam] 26³²¹¹¹ M
+
+31, 32 19am] 29 M
+
